@@ -1,0 +1,11 @@
+{
+  "device": "gsj_wr32",
+  "version": "0.1.6",
+  "filename": "firmware.bin",
+  "sizeBytes": 1109088,
+  "sha256": "8F73F5113C573B2FD02B3EF12271A2EB0E9341C23AB174967521228F5035A412",
+  "buildCommit": "dfaeb3c974069e1e401ed059bdc25b0b09b60356",
+  "sourceRepo": "n2Electrons/lpg-sensor-wr32",
+  "releaseRepo": "n2Electrons/lpg-firmware-releases",
+  "generatedAt": "2026-08-21T00:25:51-06:00"
+}
